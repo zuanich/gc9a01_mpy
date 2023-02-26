@@ -303,3 +303,5 @@ The module exposes predefined colors:
   https://github.com/peterhinch/micropython-font-to-py
   to generate a bitmap fonts from .ttf and use them as a frozen bytecode from
   the ROM memory.
+  
+  Zuanich Copy
